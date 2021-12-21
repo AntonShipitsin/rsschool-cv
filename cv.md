@@ -49,3 +49,20 @@ something new to be a good developer in near future.
  </script>
 </body>
 ```
+
+## Work Experience:
+    Currently i have no experience in development. 
+
+* `2011 - 2017` -  State Brass Orcherstra.
+
+* `2017 - until now` - Field service engineer in pharmaceutical company. 
+
+## Education:
+* `2004 - 2007` - Music college (musician)
+* `2007 - 2011` - National Technical  University. (computers and software)
+* `2017 - 2020` - Kainar University (information technology) 
+* YouTube 
+
+## Language: 
+* **Russian** - _native_
+* **English** - _A2_
