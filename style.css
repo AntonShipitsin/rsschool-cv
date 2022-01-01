@@ -263,3 +263,75 @@ pre {
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
+
+@keyframes blink {
+    from {
+    background-color: rgba(216, 236, 255, 1);
+    }
+    50% {
+        background-color: rgb(137, 192, 243);
+    }
+    100% {
+        background-color: rgba(216, 236, 255, 1);
+    }
+}
+
+
+@media (max-width: 869px)
+{ .gray {
+    margin: 0px 3px;
+}
+.blue {
+    margin: 0px 3px;
+} 
+}
+
+
+
+@media (max-width: 570px) {
+    .main {
+        display: block;
+    }
+    .short-info {
+        max-width: 100%;
+    }
+    .header {
+        margin-bottom: 60px;
+    }
+    .header__nav {
+        bottom: -50px;
+        right: 5px;
+        font-size: 95%;
+        gap: 3px;
+    }
+    .nav-list {
+        gap: 3px;
+    }
+    .nav_item {
+    font-size: 70%;
+    border-bottom: 2px solid #D8ECFF;
+    letter-spacing: 2px;
+    padding: 5px 5px;
+    transition: all .6s;
+    }
+    .nav_item:hover {
+        border-radius: 10px;
+        }
+}
+
+
+
+@media (max-width: 410px) {
+    .header {
+        gap: 2px;
+    }
+    pre {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 342px) {
+.header_title {
+    font-size: 18px;
+}
+}
