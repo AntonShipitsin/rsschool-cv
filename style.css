@@ -247,3 +247,19 @@ pre {
     background-color: #D8ECFF;
     border-radius: 10px; 
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+.footer__img {
+    width: 150px;
+    max-height: 100px;
+}
+.git_animation {
+    animation-name: blink;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
